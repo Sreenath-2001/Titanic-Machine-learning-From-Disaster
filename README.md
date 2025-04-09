@@ -5,8 +5,8 @@ To predict the survival of passengers aboard the Titanic using machine learning 
 
 ---
 
-## 📄 Overview
-This beginner-friendly project is a classic from Kaggle's "Titanic - Machine Learning from Disaster" competition. It involves data cleaning, visualization, and predictive modeling to understand which passengers were more likely to survive the tragic sinking of the Titanic.
+##  Overview
+This project is a classic from Kaggle's "Titanic - Machine Learning from Disaster" competition. It involves data cleaning, visualization, and predictive modeling to understand which passengers were more likely to survive the tragic sinking of the Titanic.
 
 ---
 
